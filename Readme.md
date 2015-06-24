@@ -198,6 +198,10 @@ For convinience, you may add bullets in list of ignored words into **`Preference
 }
 ```
 
+### Sublime Snippet support
+To create a `.sublime-snippet` that is scoped to just PlainTasks, use `<scope>text.todo</scope>`.
+
+
 ## [BONUS] Custom todo icon
 PlainTasks comes with a custom todo icon that you can find in the `icons` folder. You can assign it to your todo files to give them a better look and distinguish them from other plain text files. Google and find out how to assign a custom icon to a file type in your operating system.
 
